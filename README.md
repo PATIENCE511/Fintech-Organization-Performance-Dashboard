@@ -27,38 +27,38 @@ Conditional Formatting,
 KPI Cards.
 ## Dataset Information
 The dataset contains organizational records including:
--Organization details
--Industry classification
--Country location
--Currency type
--Verification status
--Activity status
--Billing structure
--Date each organisation joined
+Organization details
+* Industry classification
+* Country location
+* Currency type
+* Verification status
+* Activity status
+* Billing structure
+* Date each organisation joined
 ## Data Cleaning Process
 The following data cleaning steps were performed before analysis:
--Copy the raw data to a new sheet
--Cheaked for duplicate data
--Standardized text formatting
--Corrected inconsistent values
--Converted date columns into proper date format
--Checked for missing values
+* Copy the raw data to a new sheet
+* Cheaked for duplicate data
+* Standardized text formatting
+* Corrected inconsistent values
+* Converted date columns into proper date format
+* Checked for missing values
 ## Dashboard Features
 The dashboard includes the following KPIs and visualizations:
 KPI Metrics
--Total Organizations
--Total Industries
--Most Used Currency
--Active Organization Percentage
--Verified Organization Percentage
--Custom Billed Percentage
+* Total Organizations
+* Total Industries
+* Most Used Currency
+* Active Organization Percentage
+* Verified Organization Percentage
+* Custom Billed Percentage
 ## Visualizations
-Organization Join Trend by Weekday
-Monthly Organization Growth Trend
-Organization Distribution by Country
-Organization Distribution by Currency
-Industry Distribution Analysis
-Verification Status by Industry
+* Organization Join Trend by Weekday
+* Monthly Organization Growth Trend
+* Organization Distribution by Country
+* Organization Distribution by Currency
+* Industry Distribution Analysis
+* Verification Status by Industry
 ## Dashboard Preview
 <img width="937" height="660" alt="Screenshot 2026-05-28 185513" src="https://github.com/user-attachments/assets/1447946c-d70b-4b16-a374-bd65d2a5dcec" />
 
