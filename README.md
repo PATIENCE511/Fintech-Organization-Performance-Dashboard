@@ -57,11 +57,11 @@ Organization Join Trend by Weekday
 Monthly Organization Growth Trend
 Organization Distribution by Country
 Organization Distribution by Currency
-
 Industry Distribution Analysis
 Verification Status by Industry
 ## Dashboard Preview
 <img width="937" height="660" alt="Screenshot 2026-05-28 185513" src="https://github.com/user-attachments/assets/1447946c-d70b-4b16-a374-bd65d2a5dcec" />
+
 ## Key Insights
 1. High Activity Rate
 The dashboard shows that 99% of organizations are active, indicating strong platform engagement and operational consistency.
@@ -80,13 +80,15 @@ The Nigerian Naira (NGN) is the dominant transaction currency across organizatio
 
 6. Low Custom Billing Adoption
 Only a small percentage of organizations use custom billing, which may indicate limited enterprise-level billing adoption.
+
 ## Recommendations
 Based on the analysis, the following recommendations were identified:
-Expand onboarding efforts in underrepresented countries
-Improve engagement strategies for industries with lower participation
-Introduce incentives for organizations to complete verification
-Explore opportunities to increase custom billing adoption
-Continue strengthening platform support for Technology and Finance sectors
+1. Expand onboarding efforts in underrepresented countries
+2. Improve engagement strategies for industries with lower participation
+3. Introduce incentives for organizations to complete verification
+4. Explore opportunities to increase custom billing adoption
+5. Continue strengthening platform support for Technology and Finance sectors
+
 ## Conclusion
 This project demonstrates how Microsoft Excel can be effectively used for business intelligence and organizational performance analysis.
 By leveraging Excel dashboards, pivot tables, and visual analytics, the project transforms raw organizational data into meaningful insights that support data-driven decision-making.
