@@ -56,12 +56,12 @@ Custom Billed Percentage
 Organization Join Trend by Weekday
 Monthly Organization Growth Trend
 Organization Distribution by Country
-Organization Distribution by Currency<img width="937" height="660" alt="Screenshot 2026-05-28 185513" src="https://github.com/user-attachments/assets/1447946c-d70b-4b16-a374-bd65d2a5dcec" />
+Organization Distribution by Currency
 
 Industry Distribution Analysis
 Verification Status by Industry
 ## Dashboard Preview
-
+<img width="937" height="660" alt="Screenshot 2026-05-28 185513" src="https://github.com/user-attachments/assets/1447946c-d70b-4b16-a374-bd65d2a5dcec" />
 ## Key Insights
 1. High Activity Rate
 The dashboard shows that 99% of organizations are active, indicating strong platform engagement and operational consistency.
