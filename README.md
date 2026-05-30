@@ -20,38 +20,38 @@ Understand organization distribution across industries and countries
 Present insights in a clear and business-friendly format
 ## Tools Used
 Microsoft Excel:
-Pivot Tables
-Pivot Charts(barchart,columnchart,piechart,linechart)
-Slicers
-Conditional Formatting
-KPI Cards
+Pivot Tables,
+Pivot Charts(barchart,columnchart,piechart,linechart),
+Slicers,
+Conditional Formatting,
+KPI Cards.
 ## Dataset Information
 The dataset contains organizational records including:
-Organization details
-Industry classification
-Country location
-Currency type
-Verification status
-Activity status
-Billing structure
-Date each organisation joined
+-Organization details
+-Industry classification
+-Country location
+-Currency type
+-Verification status
+-Activity status
+-Billing structure
+-Date each organisation joined
 ## Data Cleaning Process
 The following data cleaning steps were performed before analysis:
-Duplicates the raw data
-Removed duplicate records
-Standardized text formatting
-Corrected inconsistent values
-Converted date columns into proper date format
-Checked for missing values
+-Copy the raw data to a new sheet
+-Cheaked for duplicate data
+-Standardized text formatting
+-Corrected inconsistent values
+-Converted date columns into proper date format
+-Checked for missing values
 ## Dashboard Features
 The dashboard includes the following KPIs and visualizations:
 KPI Metrics
-Total Organizations
-Total Industries
-Most Used Currency
-Active Organization Percentage
-Verified Organization Percentage
-Custom Billed Percentage
+-Total Organizations
+-Total Industries
+-Most Used Currency
+-Active Organization Percentage
+-Verified Organization Percentage
+-Custom Billed Percentage
 ## Visualizations
 Organization Join Trend by Weekday
 Monthly Organization Growth Trend
